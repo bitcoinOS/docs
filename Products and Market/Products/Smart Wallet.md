@@ -1,0 +1,3 @@
+# Smart Wallet
+
+Programmable Bitcoin wallet providing various security strategies, supporting hardware wallet signers, end-to-end key management, and keyless network custody wallets, balancing security and flexibility. It also offers personalized services for assets in the wallet, such as amount restrictions and recipient restrictions. The smart wallet can support the management of all types of assets on Bitcoin, including Bitcoin, Ordinals, Runes, Atomicals, RGB, etc., serving as the user's personal wealth agent.

@@ -1,0 +1,8 @@
+# Market
+Currently, the total locked value (TVL) in DeFi across various chains exceeds $100 billion ($106.678 billion). The DeFi products here include decentralized lending, decentralized trading, decentralized derivatives, and decentralized stablecoins. Among these DeFi products, the ratio on the ETH chain accounts for 25.4%.
+
+Based on current market share calculations, Bitcoin's market share (49.4%) is about three times that of Ethereum (16.5%). Therefore, conservatively estimating, the market value of Bitcoin DeFi should at least reach three times that of Ethereum DeFi.
+
+Historically, decentralized applications on Ethereum have accounted for 8% to 50% of Ethereum's market value, with this figure currently around 25%. If we estimate based on this proportion, the market value of DeFi on the Bitcoin network could fluctuate between $72 billion and $450 billion, while in the current market, the BTC staking ratio has just exceeded 1%.
+
+The scale of on-chain staking on Bitcoin is far behind ETH and even lags behind SOL, but from the staking data, on-chain staking of Bitcoin is entering the public eye. BifiPal, targeting Bitcoin's dual low status (low yield and low staking rate), provides a complete financial pipeline service for Bitcoin holders, aiming to increase user profits and activate Bitcoin's existing currency value of nearly $1 trillion. The following products are specifically constructed, and more features will be launched in the future.
